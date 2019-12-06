@@ -11,3 +11,5 @@ For now, the available keywords are these:
     *Warning: this function has a problem and is beign worked on, problem will be fixed in a future update*
   • blinkAll(blink interval in ms);: blinks the whole display on and off.
 If you have any suggestions, do not hesitate to find me on the Arduino discord:https://discord.gg/bzDVxzc
+
+# to install the libary please visit arduino.cc/en/Guide/Libraries/
